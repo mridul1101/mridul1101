@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mridulsharma
 - 👀 I’m interested in learning coding,riding bike and trekking enthusiast.
 - 🌱 I’m currently learning Html,CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Mridul658@gmail.com
 
 <!---
